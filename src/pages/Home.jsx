@@ -21,6 +21,7 @@ const StyledFooter = styled.footer`
     width: 80%;
     margin: 2.5em auto;
     color: #A9A9A9;
+    margin-top: auto;
 
     a{
         color: #A9A9A9;
